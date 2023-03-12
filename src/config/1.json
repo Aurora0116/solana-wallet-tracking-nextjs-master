@@ -1,0 +1,53 @@
+{
+    "symbol": "CHALK APE",
+    "seller_fee_basis_points": 500,
+    "update_authority": "8QQ2yc7adw4S3Ma19uDWu2wR82wMRsd8TZNjgwDN7ddv",
+    "external_url": "chalkbored.xyz",
+    "image": "https://arweave.net/alwL2vNFufcDJVaPSlNmdzkc4F_3IcdFvKbBCZz7xX0",
+    "collection": {
+        "name": "Chalk Bored Ape Syndicate",
+        "family": "Chalk Bored"
+    },
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://arweave.net/alwL2vNFufcDJVaPSlNmdzkc4F_3IcdFvKbBCZz7xX0"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "GfhECJa6RrQF3dXD8qqo2J2HP1cZ1nFMQQbkxfP9mxbV",
+                "share": 100
+            },
+            {
+                "address": "CHLK96JU56TdebAdhnUuosqnzv5o4ko1Sm2tdan3nR4r",
+                "share": 0
+            }
+        ]
+    },
+    "description": "The Chalk Bored Ape Syndicate is an exclusive collection of 3,333 Chalk Ape NFTs which represent membership into the ChalkDAO on the Solana blockchain.",
+    "attributes": [
+        { "trait_type": "Fur", "value": "Gold", "trait_count": 18 },
+        { "trait_type": "Eyes", "value": "Blindfold", "trait_count": 126 },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian Shirt",
+            "trait_count": 49
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn",
+            "trait_count": 118
+        },
+        { "trait_type": "Hat", "value": "Brim Hat Red", "trait_count": 294 },
+        {
+            "trait_type": "Membership",
+            "value": "Associate",
+            "trait_count": 1350
+        }
+    ],
+    "name": "Chalk Bored Ape #891",
+    "animation_url": ""
+}

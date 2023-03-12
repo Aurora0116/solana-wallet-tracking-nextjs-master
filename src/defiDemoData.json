@@ -1,0 +1,223 @@
+{
+    "liquidity": {
+        "orca": [
+            {
+                "pool": "8PSfyiTVwPb6Rr2iZ8F3kNpbg65BCfJM9v8LfB916r44",
+                "a_token": "mSOL",
+                "b_token": "USDC",
+                "a_amount": 9.99999999907325e-10,
+                "b_amount": 0.0000010000000000287557,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0.0000012024554608691673
+            }
+        ],
+        "raydium": [],
+        "saber": [
+            {
+                "pool": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
+                "a_token": "mSOL",
+                "b_token": "SOL",
+                "a_amount": -28.76999782,
+                "b_amount": 29.473652994000005,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": -10.022578425438041
+            },
+            {
+                "pool": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
+                "a_token": "USDC",
+                "b_token": "USDT",
+                "a_amount": -9.970044999999999,
+                "b_amount": 10,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0.031315818728471
+            }
+        ]
+    },
+    "farming": {
+        "raydium": [
+            {
+                "pool": "J6ECnRDZEXcxuruvErXDWsPZn9czowKynUr9eDSQ4QeN",
+                "a_token": "SOL-USDC",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0
+            }
+        ],
+        "francium": [
+            {
+                "pool": "2NyftNUcsyDwYckhFEV4J2zinH2Hy6NChfbE65Vf4SJR",
+                "a_token": "USDC",
+                "b_token": "MBS",
+                "a_amount": 33.67380799999998,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 33.67079731357073
+            },
+            {
+                "pool": "HSzUdhKM8DewfuLDrKtuQKnKYvfrdE8qS5SK8drLHfBt",
+                "a_token": "USDT",
+                "b_token": "WSOL",
+                "a_amount": 0.08517299999999928,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0.08533287194366856
+            },
+            {
+                "pool": "5L75Y93BZECUSUMuaKLB3hmHqVE45gUuPdaKXVCaVHLt",
+                "a_token": "USDC",
+                "b_token": "ORCA",
+                "a_amount": -0.2531079999999992,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": -0.25260580262517784
+            }
+        ],
+        "saber": [
+            {
+                "pool": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
+                "a_token": "mSOL-SOL",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0
+            },
+            {
+                "pool": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
+                "a_token": "USDT-USDC",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0
+            }
+        ]
+    },
+    "lending": {
+        "francium": [
+            {
+                "pool": "CFp9kt8z3Epb1QSiEp3xA44KbSwuJxhFR3wQoerFqYS9",
+                "a_token": "USDC",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": -0.0000029999999995311555,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": -0.0000030001331605689074
+            }
+        ],
+        "larix": [
+            {
+                "pool": "5eSFSTPte1Hbqcvhe8H4DSgqNGuzSLjgA7ynpCucdGqg",
+                "a_token": "SOL",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": 0.003235639999999207,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 205.67212780454105
+            },
+            {
+                "pool": "6Vo5xySvnp1ibacPbEzBYhchorTaTWjmtNb6DogRRtpZ",
+                "a_token": "ETH",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": 9.999999999940612e-9,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0.000040750316188109537
+            },
+            {
+                "pool": "GEsqqefr4WEeUCWYAHuyUHXDCc6z9nnpeMnHU6F1tFRL",
+                "a_token": "USDC",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": -0.000009999999999621423,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": -0.000010000443866786668
+            }
+        ]
+    },
+    "borrowing": {
+        "larix": [
+            {
+                "pool": "5eSFSTPte1Hbqcvhe8H4DSgqNGuzSLjgA7ynpCucdGqg",
+                "a_token": "SOL",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": -5.7000000053264444e-8,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": -0.000009180430595279176
+            },
+            {
+                "pool": "8qwbk6bMZJUjpUVYbU5X5XzrZfor3mTXRVkGGjDcrGSv",
+                "a_token": "USDT",
+                "b_token": "",
+                "a_amount": 0,
+                "b_amount": 0,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 0,
+                "lp_amount": 0,
+                "total_value": 0
+            }
+        ]
+    },
+    "staking": {
+        "marinade": [
+            {
+                "pool": "Du3Ysj1wKbxPKkuPPnvzQLQh8oMSVifs3jGZjJWXFmHN",
+                "a_token": "SOL",
+                "b_token": "mSOL",
+                "a_amount": 0,
+                "b_amount": 0.97726389,
+                "lend": 0,
+                "borrow": 0,
+                "stake": 9.999999717180685e-10,
+                "lp_amount": 0,
+                "total_value": 169.94462783045464
+            }
+        ]
+    }
+}

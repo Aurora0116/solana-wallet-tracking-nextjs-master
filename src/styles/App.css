@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 18px;
+  height: 100vh;
+  width: 100vw;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.display-none {
+  display: none !important;
+}
+.main-content {
+  width: calc(100% - 240px);
+  margin-left: 240px;
+  padding-top: 80px;
+  padding-bottom: 40px;
+  min-height: calc(100vh - 120px);
+  background-color: #111;
+  color: #fff;
+}
+.card-content {
+  padding: 15px;
+}
+p.card-title {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 0;
+  border-bottom: 1px solid #ffffff1f;
+}
+p.card-price {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  padding: 5px 0;
+}
+p.card-time {
+  font-size: 12px;
+  color: #777;
+}
+.card-image img {
+  border-radius: 4px;
+  margin: 10px 10px 0 10px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+span.price-value {
+  font-size: 16px;
+}
+.title-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+.text-bold {
+  font-weight: bold;
+}
+.nft-thumnail {
+  margin: 10px auto;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.nft-thumnail img {
+  width: 40px;
+  height: 40px;
+  border-radius: 2px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+.table-head {
+  font-size: 18px;
+}
+/* new Defi page */
+.defi-item-titlebar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.titlebar-name {
+  display: flex;
+  align-items: center;
+}
+.titlebar-name h3 {
+  margin-left: 10px;
+}
+.table-body-cell {
+  font-size: 16px;
+}
+.titlebar-total {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.titlebar-control {
+  display: flex;
+  align-items: center;
+}
+.defi-item {
+  border: 1px solid #ffffff38;
+  padding: 10px 15px;
+  border-radius: 6px;
+  margin: 15px 0;
+}
+.protocol-titlebar {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.protocol-titlebar .protocal-title {
+  display: flex;
+  align-items: center;
+}
+.protocol-titlebar .protocal-title img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+.protocol-item {
+  padding: 10px;
+  margin: 10px 0;
+  background: #1c1c1c;
+  border-radius: 6px;
+}
+.protocol-titlebar .protocal-title h4 {
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.protocol-item-total {
+  margin-right: 10px;
+  font-weight: bold;
+}
+.mini-table-cell {
+  line-height: 2.5;
+  font-weight: bold;
+}
+.filter-action {
+  display: flex;
+  align-items: center;
+}
+.MuiSelect-select.MuiSelect-outlined.MuiOutlinedInput-input {
+  padding: 8px 10px !important;
+}
+.text-align-left {
+  text-align: left;
+}
+.select-group {
+  display: flex;
+  align-items: center;
+}
+.select-title {
+  font-size: 14px;
+}
+.pagination-filter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0;
+}
+.pagination-skip {
+  height: 100%;
+  margin: 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 992px) {
+  .main-content {
+    width: 100%;
+    margin-left: 0;
+  }
+}
